@@ -1,0 +1,8 @@
+# Ignore log files
+*about.php
+
+# Ignore the "config" directory
+config/
+
+# Ignore a specific file
+secret.txt
